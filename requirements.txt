@@ -1,0 +1,6 @@
+PyQt5
+PyQtWebEngine
+Pillow
+requests
+pytesseract
+googletrans==4.0.0-rc1
